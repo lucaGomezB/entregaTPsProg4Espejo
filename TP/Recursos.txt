@@ -1,0 +1,7 @@
+Ejercicio Integrador (Estructura Modular + Routers + Services)
+https://youtu.be/lvSH70-MMEE
+
+Repositorio de Ejemplos e Integrador
+https://github.com/profcarlosamartinez/fastapi_backend
+
+
