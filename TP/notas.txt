@@ -1,5 +1,0 @@
-Para ejecutar un proyecto uvicorn:
-uvicorn app.main:app --reload // la parte antes del : lleva la ruta "absoluta" para llegar a lo que se busca.
-
-Para abrir la UI de Swagger:
-http://127.0.0.1:8000/docs

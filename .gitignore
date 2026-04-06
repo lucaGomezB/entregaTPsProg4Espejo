@@ -1,0 +1,12 @@
+Ignora el directorio .vscode, que contiene una corrección fallida de VSC para que detecte las librerías de Python
+.vscode
+
+# Ignora node_modules
+node_modules/
+
+# Ignora .env
+.env
+
+# Ignora log
+Logs/
+
